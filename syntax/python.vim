@@ -1,4 +1,5 @@
 " Vim syntax file
+" Added by adam
 " Language:	Python
 " Maintainer:	Dmitry Vasiliev <dima@hlabs.spb.ru>
 " URL:		http://www.hlabs.spb.ru/vim/python3.0.vim
